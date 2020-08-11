@@ -1,11 +1,11 @@
 ---
 title: Some Random Thoughts
-date: 2020-08-05 13:56:26
 categories:
-- Thoughts
-tags: 
-- Thoughts
-- Life
+  - Thoughts
+tags:
+  - Thoughts
+  - Life
+date: 2020-08-05 13:56:26
 ---
 
 2020,08,04.
