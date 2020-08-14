@@ -7,6 +7,7 @@ tags:
   - 数论
 date: 2020-08-09 20:57:28
 widgets: null
+thumbnail: https://cdn.luogu.com.cn/upload/image_hosting/65en13ki.png
 ---
 
 ## 定理
